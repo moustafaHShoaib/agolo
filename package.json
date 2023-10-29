@@ -1,0 +1,24 @@
+{
+    "name": "agolo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest --ci --reporters=default --reporters=jest-junit"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "@types/supertest": "^2.0.14",
+      "jest": "^29.7.0",
+      "jest-junit": "^16.0.0",
+      "ts-jest": "^29.1.1",
+      "ts-node-dev": "^2.0.0",
+      "@types/faker": "^5.5.8"
+    },
+    "dependencies": {
+      "supertest": "^6.3.3",
+      "faker": "^5.5.3"
+    }
+  }

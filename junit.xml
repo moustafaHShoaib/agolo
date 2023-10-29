@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="9" failures="0" errors="0" time="3.08">
+  <testsuite name="SignUp tests" errors="0" failures="0" skipped="0" timestamp="2023-10-29T15:40:55" time="2.441" tests="5">
+    <testcase classname="SignUp tests Sign up happy flows sign Up with a valid username and password" name="SignUp tests Sign up happy flows sign Up with a valid username and password" time="0.276">
+    </testcase>
+    <testcase classname="SignUp tests Sign up happy flows sign Up with an empty header " name="SignUp tests Sign up happy flows sign Up with an empty header " time="0.258">
+    </testcase>
+    <testcase classname="SignUp tests Sign up unahppy flows sign Up with an empty username" name="SignUp tests Sign up unahppy flows sign Up with an empty username" time="0.174">
+    </testcase>
+    <testcase classname="SignUp tests Sign up unahppy flows sign Up with an empty password" name="SignUp tests Sign up unahppy flows sign Up with an empty password" time="0.214">
+    </testcase>
+    <testcase classname="SignUp tests sign Up with an empty body " name="SignUp tests sign Up with an empty body " time="0.186">
+    </testcase>
+  </testsuite>
+  <testsuite name="sign in tests" errors="0" failures="0" skipped="0" timestamp="2023-10-29T15:40:55" time="2.923" tests="4">
+    <testcase classname="sign in tests Sign in happy flows sign in with a valid username and password" name="sign in tests Sign in happy flows sign in with a valid username and password" time="0.451">
+    </testcase>
+    <testcase classname="sign in tests Sign in unhappy flows sign in with an empty username and password" name="sign in tests Sign in unhappy flows sign in with an empty username and password" time="0.361">
+    </testcase>
+    <testcase classname="sign in tests Sign in unhappy flows sign in with an empty username" name="sign in tests Sign in unhappy flows sign in with an empty username" time="0.398">
+    </testcase>
+    <testcase classname="sign in tests Sign in unhappy flows sign in with an empty password" name="sign in tests Sign in unhappy flows sign in with an empty password" time="0.38">
+    </testcase>
+  </testsuite>
+</testsuites>
